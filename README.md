@@ -1,5 +1,4 @@
 # PROJECT-DUSTBOWL
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Compatabile With...
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
   ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white)
